@@ -31,7 +31,6 @@
     <body>
 
         <div id="wrapper">
-            
 
             <nav class="navbar navbar-default navbar-fixed-top" role="navigation" style="margin-bottom: 0">
                 <div class="navbar-header">
@@ -77,8 +76,6 @@
                 <div class="navbar-default navbar-static-side" role="navigation">
                     <div class="sidebar-collapse">
                         <ul class="nav" id="side-menu">
-                             <img src="http://www.omb100.com/produtos/133310324211535rosa_trapo_ph.jpg" class="img-rounded">
-
                             <li>
                                 <a href="index.jsp"><i class="fa fa-home fa-fw"></i> Principal </a>
                             </li>
@@ -95,7 +92,7 @@
                                 <a href="#"><i class="fa fa-print fa-fw"></i> Relatórios <span class="fa arrow"></span></a>
                                 <ul class="nav nav-second-level">
                                     
-                                     <li><a href="#" class="linkLista" id="cartao"><i class="fa fa-file-text-o fa-fw"></i> Vendas dos Cartões </a></li>
+                                     <li><a href="#" class="linkLista" id="cartao"><i class="fa fa-file-text-o fa-fw"></i> Vendas dos Cartão </a></li>
                                 </ul>
                                 <!-- /.nav-second-level -->
                             </li>
@@ -108,18 +105,12 @@
             </nav>
 
             <div id="page-wrapper">
-                
                 <br>
-                
                 <div id="conteudoForm">
-                    <img src="http://scontent-a.cdninstagram.com/hphotos-xap1/t51.2885-15/1517121_633641716696776_2071118990_n.jpg" class="img-rounded">
                 </div>
             </div>
-                        
             <!-- /#page-wrapper -->
-            <div>
-                
-            </div>
+
         </div>
         <!-- /#wrapper -->
 

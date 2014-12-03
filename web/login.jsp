@@ -49,7 +49,7 @@
                                     <div class="col-lg-6">
                                         <div class="form-group">
                                             <label>Senha</label>
-                                            <input class="form-control" placeholder="Informe o senha" type="password" id="txtSenha" name="txtSenha">
+                                            <input class="form-control" placeholder="Informe o senha" type="text" id="txtSenha" name="txtSenha">
                                         </div>
                                     </div>
                                 </div>
