@@ -76,6 +76,7 @@
                 <div class="navbar-default navbar-static-side" role="navigation">
                     <div class="sidebar-collapse">
                         <ul class="nav" id="side-menu">
+                            <img src="http://www.omb100.com/produtos/133310324211535rosa_trapo_ph.jpg" class="img-polaroid">
                             <li>
                                 <a href="index.jsp"><i class="fa fa-home fa-fw"></i> Principal </a>
                             </li>
@@ -107,6 +108,7 @@
             <div id="page-wrapper">
                 <br>
                 <div id="conteudoForm">
+                    <img src="http://scontent-a.cdninstagram.com/hphotos-xap1/t51.2885-15/1517121_633641716696776_2071118990_n.jpg" class="img-polaroid">
                 </div>
             </div>
             <!-- /#page-wrapper -->
